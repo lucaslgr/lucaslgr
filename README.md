@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=lucaslgr&repo=lucaslgr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=lucaslgr&repo=lucaslgr&count_private=true&show_icons=true&title_color=#FFF&text_color=#FFF&icon_color=#0060b8&bg_color=#132249)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lucaslgr/lucaslgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
