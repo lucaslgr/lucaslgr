@@ -8,7 +8,7 @@
 - 👨🏽‍💻 I'm Lucas and currenctly I'm studying engineering and working like a web software development freelancer. 
 - ⚡ Enthusiast of the software development for web, mobile and desktop and technologies around this environment.
 
-<img align="right" src="[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=lucaslgr&repo=lucaslgr&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)" >
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=lucaslgr&repo=lucaslgr&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
