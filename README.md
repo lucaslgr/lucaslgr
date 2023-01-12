@@ -8,10 +8,6 @@
 - 👨🏽‍💻 I'm Lucas and currenctly I'm studying engineering and working like a software engineering intern. 
 - ⚡ Enthusiast of the software development for web, mobile and desktop and technologies around this environment.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=lucaslgr&repo=lucaslgr&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 <!--
 **lucaslgr/lucaslgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
